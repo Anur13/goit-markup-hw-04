@@ -147,6 +147,7 @@ a:active {
   color: var(--background-colour);
   padding: 10px 32px;
   border-radius: 4px;
+  border: 0;
 }
 
 .qualities {
